@@ -1,0 +1,11 @@
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\bin\Debug\netcoreapp2.2\MyFirstKafkaProducer.deps.json
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\bin\Debug\netcoreapp2.2\MyFirstKafkaProducer.runtimeconfig.json
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\bin\Debug\netcoreapp2.2\MyFirstKafkaProducer.runtimeconfig.dev.json
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\bin\Debug\netcoreapp2.2\MyFirstKafkaProducer.dll
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.csproj.CoreCompileInputs.cache
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.AssemblyInfoInputs.cache
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.AssemblyInfo.cs
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\bin\Debug\netcoreapp2.2\MyFirstKafkaProducer.pdb
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.csprojAssemblyReference.cache
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.dll
+C:\Kafka Project\MyFirstKafkaConsumer\MyFirstKafkaProducer\obj\Debug\netcoreapp2.2\MyFirstKafkaProducer.pdb
